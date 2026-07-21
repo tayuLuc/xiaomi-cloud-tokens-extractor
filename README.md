@@ -41,7 +41,7 @@ If you have [`uv`](https://docs.astral.sh/uv/):
 uv run https://raw.githubusercontent.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor/refs/heads/master/token_extractor.py
 
 # Or clone and run
-git clone <your-fork-url>
+git clone https://github.com/tayuLuc/xiaomi-cloud-tokens-extractor
 cd Xiaomi-cloud-tokens-extractor
 uv run token_extractor.py
 ```
